@@ -1,4 +1,4 @@
-# Oficina GepIA Python - Newton Paiva 2023
+# Oficina GepIA Python - Newton Paiva 
 
 Bem-vindo ao repositório da **Oficina de Python com Foco em GepIA**, realizada na Newton Paiva em 2023! Este projeto contém materiais, códigos e recursos para aprender programação em Python, com ênfase em Inteligência Artificial Generativa (GepIA) e aplicações práticas.
 
